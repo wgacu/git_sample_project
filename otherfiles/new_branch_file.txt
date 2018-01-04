@@ -2,3 +2,6 @@ Ken
 Tester
 Mandaluyong City
 CUP
+apple
+lemon
+grapes
